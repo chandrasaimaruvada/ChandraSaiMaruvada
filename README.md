@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Chandra Sai Maruvada 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&lines=Java+Developer;Cloud+Enthusiast;Spring+Boot+%7C+AWS+%7C+PostgreSQL+;Open+to+Product-Based+Opportunities"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&lines=Software+Developer;Cloud+Enthusiast;Spring+Boot+%7C+AWS+%7C+PostgreSQL+;Open+to+Product-Based+Opportunities"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔥 2.5+ years of experience as a **Java Developer** in **product-scale enterprise environments**
-- 💼 Currently working at **British Petroleum**, building scalable REST APIs and cloud-native solutions
+- 🔥 2.6 years of experience as a **Java Developer** in **product-scale enterprise environments**
+- 💼 Currently working at **Wipro**, building scalable REST APIs and cloud-native solutions
 - ☁️ Strong hands-on with **AWS**: EC2, Auto Scaling, AMI, S3, RDS, IAM, CloudWatch
 - 🛠 Skilled in designing resilient, high-performance backend systems using **Spring Boot**, **J2EE**, **MySQL/PostgreSQL**
 - 📈 Recently implemented a **Windows-based EC2 Auto Scaling solution using AMIs and Launch Templates**
