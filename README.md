@@ -45,16 +45,14 @@
 ### 🌍 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/chandra-sai-maruvada">
+  <a href="https://linkedin.com/in/chandrasai256">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chandrasaimaruvada@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90903744/197396876-594cb0aa-bf3a-4462-bb9b-754213a7f163.png" width="300"/>
-</p>
+
